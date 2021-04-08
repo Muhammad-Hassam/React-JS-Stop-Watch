@@ -1,0 +1,16 @@
+.main-heading{
+    font-size: 3rem;
+    color: rgb(20, 65, 65);
+    text-decoration: underline;
+}
+.time-block{
+    color: rgb(20, 65, 65);
+    border:  2px solid black;
+    padding: 4rem;
+    font-size: 2.5em;
+    border-radius: 3rem;
+    box-shadow: 1rem 1rem rgba(20, 65, 65, 0.89);
+}
+.marg{
+    margin-top: 2rem;
+}
